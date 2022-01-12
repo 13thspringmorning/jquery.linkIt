@@ -1,0 +1,27 @@
+
+{
+  "name": "linkIt",
+  "title": "LinkIt jQuery Plugin",
+  "description": "Simple plugin to convert any elements into a link",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/13thspringmorning/jquery.linkIt"
+  },
+  "keywords": [
+      "link",
+      "html",
+      "content"
+  ],
+  "author": "Eva Khotoveli",
+  "license": [
+      {
+          "type": "MIT",
+          "url": "https://github.com/13thspringmorning/jquery.linkIt/LICENSE.txt"
+      }
+  ],
+  "homepage": "https://github.com/13thspringmorning/jquery.linkIt", 
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}

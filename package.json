@@ -1,0 +1,24 @@
+{
+  "name": "jquery.linkit-test-112233",
+  "version": "0.1.0",
+  "description": "      \"link\",",
+  "main": " \"jquery-plugin\",",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/13thspringmorning/jquery.linkIt.git"
+  },
+  "keywords": [
+    "link",
+    "jquery-plugin",
+    "html"
+  ],
+  "author": "Eva Khotoveli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/13thspringmorning/jquery.linkIt/issues"
+  },
+  "homepage": "https://github.com/13thspringmorning/jquery.linkIt#readme"
+}

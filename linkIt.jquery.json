@@ -2,7 +2,7 @@
 {
   "name": "linkIt",
   "title": "LinkIt jQuery Plugin",
-  "description": "Simple plugin to convert any elements into a link",
+  "description": "C",
   "version": "0.1.0",
   "repository": {
     "type": "git",
@@ -11,7 +11,9 @@
   "keywords": [
       "link",
       "html",
-      "content"
+      "content",
+      "jquery-plugin",
+      "ecosystem:jquery"
   ],
   "author": "Eva Khotoveli",
   "license": [
